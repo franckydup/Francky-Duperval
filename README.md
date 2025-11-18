@@ -15,6 +15,10 @@ I aim to create interactive and immersive environments using generative systems 
 ### Tools 
 Python • NumPy • Pandas • Scikit-learn • Matplotlib • MAX/MSP • Jitter • LabStreamingLayer (LSL) 
 
+## Featured Projects
+**BABS (Bio-Aware Blended Spaces)**
+[BABS](https://github.com/CHI-CityTech/BABS)
+
 ## Portfolio
 [My Portfolio Website]()
 
